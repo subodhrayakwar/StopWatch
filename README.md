@@ -7,7 +7,3 @@ Welcome to this Project,
   
   It is tested thoroughly for it's accuracy of ~10ms.
   
-## Let's Contribute 🤝 :
-   This project is open to contributions. For any bugs, please do list out..✨
-
-Link: https://1-shreyash.github.io/Stop-Watch/
